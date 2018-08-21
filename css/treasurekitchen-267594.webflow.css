@@ -169,8 +169,8 @@ p {
   align-items: stretch;
   border-bottom: 0px none transparent;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Treasure-Kitchen-6.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Treasure-Kitchen-6.jpg');
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Treasure-Kitchen.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Treasure-Kitchen.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -639,6 +639,10 @@ p {
 
 .map {
   margin-top: 20px;
+}
+
+.image-2 {
+  padding-left: 150px;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
