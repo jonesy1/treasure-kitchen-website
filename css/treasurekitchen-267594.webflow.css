@@ -645,6 +645,15 @@ p {
   padding-left: 150px;
 }
 
+.div-block-8 {
+  margin-top: 25px;
+}
+
+.social-link {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
   opacity: 0;
   -webkit-transform: translate(0px, 50px);
